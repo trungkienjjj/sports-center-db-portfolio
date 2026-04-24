@@ -1,5 +1,16 @@
 # 🏆 Hệ thống Quản lý Trung tâm Thể thao VietSport
 
+## 📌 Note
+
+This project was originally developed as a team project.
+
+My contributions:
+- Database design (25+ tables)
+- Business logic (triggers, constraints)
+- Booking conflict handling
+
+This repository is a portfolio version for demonstration purposes.
+
 ## 📖 Giới thiệu
 
 Dự án **VietSport** là một hệ thống quản lý toàn diện cho các trung tâm thể thao, được phát triển bằng SQL Server. Hệ thống quản lý đầy đủ từ nhân viên, khách hàng, sân thể thao, dịch vụ, đặt sân cho đến hóa đơn và lương.
